@@ -8,7 +8,7 @@ This file's main method usses funcs.cpp's print_interval method.
 */
 
 #include <iostream>
-#include "funcs.cpp";
+#include "funcs.cpp"
 int main()
 {
 	print_interval(1, 10);
