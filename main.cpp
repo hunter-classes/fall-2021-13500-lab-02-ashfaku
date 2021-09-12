@@ -1,10 +1,10 @@
 /*
-Author: Ashfak Uddin
-Course: CSCI-136
-Instructor: Mike Zamansky
-Assignment: Lab2B
+	Author: Ashfak Uddin
+	Course: CSCI-136
+	Instructor: Mike Zamansky
+	Assignment: Lab2B
 
-This file's main method uses funcs.cpp's print_interval method.
+	This file's main method uses funcs.cpp's print_interval method.
 */
 
 #include <iostream>
