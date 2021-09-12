@@ -1,4 +1,13 @@
 
+/*
+	Author: Ashfak Uddin
+	Course: CSCI-136
+	Instructor: Mike Zamansky
+	Assignment: title, e.g., Lab1A
+
+	This file lets a user edit an array with a length of 10 by inputting indicies and values, untl they enter an invalid index.
+
+*/
 #include <iostream>
 void print(int a[], int size)
 {
