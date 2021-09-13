@@ -15,7 +15,7 @@ int main()
 	print_interval(1, 10);
 	std::cout << "Interval -5 to 15: ";
 	print_interval(-5, 15);
-	std::cout << "Interval 2-20: ";
+	std::cout << "Interval 2 to 20: ";
 	print_interval(2, 20);
 	return 0;
 }
